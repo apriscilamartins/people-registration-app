@@ -1,49 +1,45 @@
-# Frontend Application for People Registration
+# Client Management - Frontend
 
-This is the frontend application for the People Registration project, built using React and TypeScript. It provides a user interface for registering new individuals and interacting with the backend API.
+Este é o frontend do projeto **Client Management**, desenvolvido com React e TypeScript. Ele oferece uma interface para cadastro e gerenciamento de clientes, integrando-se à API backend.
 
-## Getting Started
+## Como começar
 
-To get started with the frontend application, follow these steps:
+Siga os passos abaixo para rodar o frontend localmente:
 
-1. **Clone the Repository**
+1. **Clone o repositório**
    ```bash
    git clone <repository-url>
-   cd people-registration-app/frontend
+   cd client-management/client
    ```
 
-2. **Install Dependencies**
-   Make sure you have Node.js installed. Then, run the following command to install the necessary dependencies:
+2. **Instale as dependências**
+   Certifique-se de ter o Node.js instalado. Em seguida, execute:
    ```bash
    npm install
    ```
 
-3. **Run the Application**
-   Start the development server with:
+3. **Execute a aplicação**
+   Inicie o servidor de desenvolvimento com:
    ```bash
    npm start
    ```
-   The application will be available at `http://localhost:3000`.
+   A aplicação estará disponível em `http://localhost:3000`.
 
-## Folder Structure
+## Estrutura de Pastas
 
-- `public/`: Contains the static files, including `index.html`.
-- `src/`: Contains the source code for the React application.
-  - `components/`: Contains React components, including `RegisterForm.tsx`.
-  - `types/`: Contains TypeScript type definitions, including `Person.ts`.
-  - `App.tsx`: The main application component.
-  - `index.tsx`: The entry point for the React application.
+- `public/`: Arquivos estáticos, incluindo `index.html`.
+- `src/`: Código-fonte da aplicação React.
+  - `components/`: Componentes React, como `ClientForm.tsx`.
+  - `types/`: Definições de tipos TypeScript, como `Client.ts`.
+  - `App.tsx`: Componente principal da aplicação.
+  - `index.tsx`: Ponto de entrada da aplicação.
 
-## Features
+## Funcionalidades
 
-- User-friendly form for registering a new person.
-- Validations for required fields and email format.
-- Integration with the backend API for creating and managing person records.
+- Formulário intuitivo para gestão de clientes.
+- Validações de campos obrigatórios e formato de e-mail.
+- Integração com a API backend para criação e gerenciamento de clientes.
 
-## Contributing
+## Licença
 
-Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.

@@ -1,10 +1,10 @@
 import React from 'react';
-import RegisterForm from './components/RegisterForm';
+import RegisterForm from './components/ClientManagementForm';
 
 const App: React.FC = () => {
     return (
         <div className="App">
-            <h1>People Registration</h1>
+            <h1>Client Management</h1>
             <RegisterForm />
         </div>
     );

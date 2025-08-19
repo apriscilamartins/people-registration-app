@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRNcbN7ZVcZTn/mBGQcCLwtItLxWSnmgbvsCrrp0u2uAoj4nb8lgJW6v+y078qHHy2wiKkqhB4hJOViZWmjtFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ana Pricila\\source\\repos\\people-registration-app\\solution\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\fluentvalidation\\10.0.0\\fluentvalidation.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.0.0\\fluentvalidation.aspnetcore.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.0.0\\fluentvalidation.dependencyinjectionextensions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0\\microsoft.aspnetcore.jsonpatch.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\swashbuckle.aspnetcore\\6.0.0\\swashbuckle.aspnetcore.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.0.0\\swashbuckle.aspnetcore.swagger.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.0.0\\swashbuckle.aspnetcore.swaggergen.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.0.0\\swashbuckle.aspnetcore.swaggerui.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Ana Pricila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

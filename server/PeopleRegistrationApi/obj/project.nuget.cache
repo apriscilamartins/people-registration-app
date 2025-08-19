@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NT5rsC0LdlM8jXJCww8BhqGc/6BRkwxCsx/NHB7WrZ+SJrC2rQdg9rb+6me4T9BVaggzBYty/RUGoyT298rbdw==",
+  "dgSpecHash": "IHhMNOQUGc7pUCFWhoj+67TQGXoQ564fj202a8NcFXOijbv7aUhXS8OepUOjei9IurRDa4cHnpdX/jno8QOZ8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\solution\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj",
+  "projectFilePath": "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\server\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ana Pricila\\.nuget\\packages\\fluentvalidation\\10.0.0\\fluentvalidation.10.0.0.nupkg.sha512",
     "C:\\Users\\Ana Pricila\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.0.0\\fluentvalidation.aspnetcore.10.0.0.nupkg.sha512",

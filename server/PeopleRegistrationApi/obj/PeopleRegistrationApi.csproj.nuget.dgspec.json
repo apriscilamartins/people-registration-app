@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\solution\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj": {}
+    "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\server\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\solution\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj": {
+    "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\server\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\solution\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj",
+        "projectUniqueName": "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\server\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj",
         "projectName": "PeopleRegistrationApi",
-        "projectPath": "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\solution\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj",
+        "projectPath": "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\server\\PeopleRegistrationApi\\PeopleRegistrationApi.csproj",
         "packagesPath": "C:\\Users\\Ana Pricila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\solution\\PeopleRegistrationApi\\obj\\",
+        "outputPath": "C:\\Users\\Ana Pricila\\source\\repos\\client-management\\server\\PeopleRegistrationApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ana Pricila\\AppData\\Roaming\\NuGet\\NuGet.Config",

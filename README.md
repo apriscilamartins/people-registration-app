@@ -1,34 +1,34 @@
-# People Registration Application
+# Client Management
 
-This project is a full-stack application for registering people, consisting of a .NET backend and a React frontend.
+Este projeto é uma aplicação full-stack para cadastro e gerenciamento de clientes, composta por um backend em .NET e um frontend em React.
 
-## Project Structure
+## Estrutura do Projeto
 
 ```
-people-registration-app
+client-management
 ├── backend
-│   ├── PeopleRegistrationApi.sln
-│   ├── PeopleRegistrationApi
+│   ├── ClientManagementApi.sln
+│   ├── ClientManagementApi
 │   │   ├── Controllers
-│   │   │   └── PeopleController.cs
+│   │   │   └── ClientController.cs
 │   │   ├── Models
-│   │   │   └── Person.cs
+│   │   │   └── Client.cs
 │   │   ├── Services
-│   │   │   └── PersonService.cs
+│   │   │   └── ClientService.cs
 │   │   ├── Program.cs
 │   │   ├── Startup.cs
-│   │   └── PeopleRegistrationApi.csproj
+│   │   └── ClientManagementApi.csproj
 │   └── README.md
-├── frontend
+├── client
 │   ├── public
 │   │   └── index.html
 │   ├── src
 │   │   ├── components
-│   │   │   └── RegisterForm.tsx
+│   │   │   └── ClientForm.tsx
 │   │   ├── App.tsx
 │   │   ├── index.tsx
 │   │   └── types
-│   │       └── Person.ts
+│   │       └── Client.ts
 │   ├── package.json
 │   ├── tsconfig.json
 │   └── README.md
@@ -37,35 +37,35 @@ people-registration-app
 
 ## Backend
 
-The backend is built using .NET and provides a RESTful API for managing person records. It includes:
+O backend é desenvolvido em .NET e fornece uma API RESTful para gerenciamento de clientes. Inclui:
 
-- **Controllers**: Handles HTTP requests and responses.
-- **Models**: Defines the data structure for person records.
-- **Services**: Contains business logic for managing person records.
+- **Controllers**: Manipula as requisições e respostas HTTP.
+- **Models**: Define a estrutura dos dados dos clientes.
+- **Services**: Contém a lógica de negócio para gerenciamento dos clientes.
 
-### Setup Instructions
+### Como executar
 
-1. Navigate to the `backend` directory.
-2. Open the solution file `PeopleRegistrationApi.sln` in your preferred .NET IDE.
-3. Restore the dependencies and run the application.
+1. Navegue até o diretório `backend`.
+2. Abra o arquivo de solução `ClientManagementApi.sln` em seu IDE .NET preferido.
+3. Restaure as dependências e execute a aplicação.
 
 ## Frontend
 
-The frontend is built using React and provides a user interface for registering new persons. It includes:
+O frontend é desenvolvido em React e TypeScript, oferecendo uma interface para cadastro e gerenciamento de clientes. Inclui:
 
-- **Components**: Contains the UI components, including the registration form.
-- **Types**: Defines TypeScript interfaces for type safety.
+- **Components**: Componentes de interface, como o formulário de clientes.
+- **Types**: Definições de tipos TypeScript para segurança de tipos.
 
-### Setup Instructions
+### Como executar
 
-1. Navigate to the `frontend` directory.
-2. Install dependencies using `npm install`.
-3. Start the application using `npm start`.
+1. Navegue até o diretório `client`.
+2. Instale as dependências com `npm install`.
+3. Inicie a aplicação com `npm start`.
 
-## Usage
+## Uso
 
-Once both the backend and frontend are running, you can access the application in your web browser. The frontend will communicate with the backend API to perform CRUD operations on person records.
+Com ambos backend e frontend em execução, acesse a aplicação pelo navegador. O frontend se comunica com a API para realizar operações de cadastro, consulta, edição e remoção de clientes.
 
-## Contributing
+## Licença
 
-Feel free to contribute to this project by submitting issues or pull requests.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para

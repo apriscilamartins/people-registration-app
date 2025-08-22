@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const RegisterForm: React.FC = () => {
+const ClientManagementForm: React.FC = () => {
     const [name, setName] = useState('');
     const [gender, setGender] = useState('');
     const [email, setEmail] = useState('');
@@ -75,4 +75,4 @@ const RegisterForm: React.FC = () => {
     );
 };
 
-export default RegisterForm;
+export default ClientManagementForm;
